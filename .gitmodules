@@ -4,3 +4,9 @@
 [submodule "themes/hugo-theme-console"]
 	path = themes/hugo-theme-console
 	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/themes/chalk"]
+	path = themes/themes/chalk
+	url = https://github.com/ph-ph/chalk.git
+[submodule "themes/chalk"]
+	path = themes/chalk
+	url = https://github.com/ph-ph/chalk.git
